@@ -1,0 +1,8 @@
+C:\spring5\eclipse-workspace\microservicios-oauth\src\main\java\com\fabriciospringcloud\microservicios\app\oauth\services\UsuarioService.java
+C:\spring5\eclipse-workspace\microservicios-oauth\src\main\java\com\fabriciospringcloud\microservicios\app\oauth\MicroserviciosServicioOauthApplication.java
+C:\spring5\eclipse-workspace\microservicios-oauth\src\main\java\com\fabriciospringcloud\microservicios\app\oauth\security\AuthorizationServerConfig.java
+C:\spring5\eclipse-workspace\microservicios-oauth\src\main\java\com\fabriciospringcloud\microservicios\app\oauth\security\event\AuthenticationSuccessErrorHandler.java
+C:\spring5\eclipse-workspace\microservicios-oauth\src\main\java\com\fabriciospringcloud\microservicios\app\oauth\services\IUsuarioService.java
+C:\spring5\eclipse-workspace\microservicios-oauth\src\main\java\com\fabriciospringcloud\microservicios\app\oauth\clients\UsuarioFeignClient.java
+C:\spring5\eclipse-workspace\microservicios-oauth\src\main\java\com\fabriciospringcloud\microservicios\app\oauth\security\InfoAdicionalToken.java
+C:\spring5\eclipse-workspace\microservicios-oauth\src\main\java\com\fabriciospringcloud\microservicios\app\oauth\security\SpringSecurityConfig.java

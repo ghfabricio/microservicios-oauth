@@ -1,0 +1,8 @@
+com\fabriciospringcloud\microservicios\app\oauth\MicroserviciosServicioOauthApplication.class
+com\fabriciospringcloud\microservicios\app\oauth\services\IUsuarioService.class
+com\fabriciospringcloud\microservicios\app\oauth\security\AuthorizationServerConfig.class
+com\fabriciospringcloud\microservicios\app\oauth\security\InfoAdicionalToken.class
+com\fabriciospringcloud\microservicios\app\oauth\clients\UsuarioFeignClient.class
+com\fabriciospringcloud\microservicios\app\oauth\security\SpringSecurityConfig.class
+com\fabriciospringcloud\microservicios\app\oauth\security\event\AuthenticationSuccessErrorHandler.class
+com\fabriciospringcloud\microservicios\app\oauth\services\UsuarioService.class
